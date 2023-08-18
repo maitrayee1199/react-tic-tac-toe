@@ -1,9 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+This is a tic tac toe game build using react that:
+-> Lets you play tic-tac-toe,
+-> Indicates when a player has won the game,
+-> Stores a game’s history as a game progresses,
+-> Allows players to review a game’s history and see previous versions of a game’s board.
+=================================================================================================
 In the project directory, you can run:
 
 ### `npm start`
